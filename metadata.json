@@ -1,0 +1,6 @@
+{
+  "name": "Lluvia en mi Zona",
+  "description": "Monitoreo comunitario de lluvia acumulada en 72 horas para prevenir inundaciones por desborde de quebradas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
